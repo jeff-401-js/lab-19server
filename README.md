@@ -9,13 +9,11 @@ Jeff
 * [travis](https://www.travis-ci.com/jeff-401-js/lab-19server)
 
 #### Documentation
-* [UML-Data-Flow]()
+* [UML-Data-Flow](https://photos.app.goo.gl/DjoR95g4THdKPHBE9)
 * [JSDOCS] - not required this lab
 
 ## Modules
-
 server.js
-
 
 ### Setup
 eslint
@@ -27,9 +25,7 @@ none
 
 #### Running the app
 * `nodemon server.js`
-* `nodemon logger.js`
-* `node app.js (filename)`
 
 #### Tests
 * How do you run tests?
-npm test `app.test.js`
+none in this repo since it is all nmq commands
